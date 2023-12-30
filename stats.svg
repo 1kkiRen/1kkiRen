@@ -1,0 +1,13 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+        <style>
+          svg {
+            align:center;
+          }
+        </style>
+        <a href="#js-contribution-activity"><img align="" src="https://github-readme-stats.vercel.app/api?username=1kkiRen&theme=radical&count_private=true&show_icons=true&hide_border=true&hide=prs,issues&include_all_commits,contribs=true&card_width=350&custom_title=GitHub%20Stats" alt="stats"></a>
+      <br>
+        <a href="#js-contribution-activity"><img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1kkiRen&title_color=81a1c1&show_icons=true&theme=radical&hide_border=true&langs_count=5&card_width=350&layout=compact" alt="langs"></a>
+    </div>
+  </foreignObject>
+</svg>
