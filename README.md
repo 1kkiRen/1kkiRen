@@ -1,10 +1,11 @@
-# Dmitrii Kuzmin — NLP Engineer & Researcher
+# Dmitrii Kuzmin — NLP/ML Engineer & Researcher
 
-Helping large language models understand the world a bit better. I build and adapt tokenizers, fine-tune multimodal models, and streamline LLM pipelines for production-grade use.
+I research and build language-model systems: tokenizer adaptation, multilingual LLM evaluation, agentic workflows, and production NLP pipelines. My current work focuses on making LLMs more reliable, efficient, and easier to adapt across languages.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1kkiRen.ru-4C1?style=for-the-badge)](https://1kkiRen.ru)
 [![Email](https://img.shields.io/badge/Email-1kkiren%40mail.ru-D14836?style=for-the-badge)](mailto:1kkiren@mail.ru)
-[![Download CV](https://img.shields.io/badge/CV-PDF-blue?style=for-the-badge)](./CV.pdf)
+[![CV EN](https://img.shields.io/badge/CV-EN-blue?style=for-the-badge)](./CV.pdf)
+[![CV RU](https://img.shields.io/badge/CV-RU-0A66C2?style=for-the-badge)](./CV__Ru_.pdf)
 [![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=1kkiRen.1kkiRen&left_color=4c1&right_color=black)](https://github.com/1kkiRen)
 
 <!-- Maintainer of [`TokenizerChanger`](https://pypi.org/project/TokenizerChanger/) library.
@@ -13,18 +14,23 @@ Helping large language models understand the world a bit better. I build and ada
 
 ## Jump to what interests you
 
-- [Quick highlights](#quick-highlights)
-- [Recent experience](#recent-experience)
-- [Projects you can try right now](#open-source-projects)
-- [Publications & research](#publications--research)
-- [How to reach me](#lets-connect)
+- [Dmitrii Kuzmin — NLP/ML Engineer \& Researcher](#dmitrii-kuzmin--nlpml-engineer--researcher)
+  - [Jump to what interests you](#jump-to-what-interests-you)
+  - [Quick highlights](#quick-highlights)
+  - [What I work with](#what-i-work-with)
+  - [Recent experience](#recent-experience)
+  - [Publications \& research](#publications--research)
+  - [Open-source projects](#open-source-projects)
+  - [Education](#education)
+  - [Beyond work](#beyond-work)
+  - [Let’s connect](#lets-connect)
 
 ## Quick highlights
 
-- Research Intern at **Mohamed bin Zayed University of Artificial Intelligence** (Jun 2025 – present) exploring alternative tokenization methods and preparing publication-ready research.
-- Middle NLP Engineer at **DeepPavlov** (May 2025 – present) driving R&D, benchmarking LLMs, and working with GPU stacks from diverse vendors.
-- Previously at **Center for Applied AI (Skolkovo)**, **Higher School of Economics**, **Moscow Aviation Institute**, and **Innopolis University**, shipping tokenizer tooling, fine-tuning Qwen and Llama models, and deploying NLP services.
-- Active open-source maintainer of tokenizer tooling.
+- Research Intern at **Mohamed bin Zayed University of Artificial Intelligence** (Jun 2025 – present), studying alternative tokenization methods and language adaptation for LLMs.
+- Middle NLP Engineer / Lead NLP Researcher at **DeepPavlov.ai** (May 2025 – present), working on LLM evaluation, agentic systems, uncertainty estimation, and reasoning reliability.
+- Previously worked with **Center for Applied AI (Skolkovo)**, **Higher School of Economics**, **Moscow Aviation Institute**, and **Innopolis University** on multimodal fine-tuning, Russian LLM adaptation, BERT models, and NLP services.
+- Maintainer of open-source tokenizer and embedding tooling published on PyPI.
 
 ## What I work with
 
@@ -36,6 +42,7 @@ Helping large language models understand the world a bit better. I build and ada
 [![Transformers](https://img.shields.io/badge/Transformers-ffca28?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/docs/transformers)
 [![Tokenizers](https://img.shields.io/badge/Tokenizers-%F0%9F%A7%AA-8A2BE2?style=for-the-badge)](https://github.com/huggingface/tokenizers)
 [![LangChain](https://img.shields.io/badge/LangChain-1f2937?style=for-the-badge)](https://www.langchain.com/)
+[![LangGraph](https://img.shields.io/badge/LangGraph-111827?style=for-the-badge)](https://www.langchain.com/langgraph)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 
@@ -54,6 +61,7 @@ Helping large language models understand the world a bit better. I build and ada
 <details>
 <summary>Backend & Communication</summary>
 
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Telegram Bot API](https://img.shields.io/badge/Telegram%20Bot%20API-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://core.telegram.org/bots/api)
 
@@ -62,9 +70,9 @@ Helping large language models understand the world a bit better. I build and ada
 <details>
 <summary>Languages & soft skills</summary>
 
-- English (proficient)
+- English (C1)
 - Russian (native)
-- Flexibility · Responsibility · Curiosity
+- Flexibility · Responsibility · Enthusiasm
 
 </details>
 <!-- markdownlint-enable MD033 -->
@@ -75,16 +83,18 @@ Helping large language models understand the world a bit better. I build and ada
 <details open>
 <summary>Research Intern · MBZUAI — Abu Dhabi, UAE (Jun 2025 – present)</summary>
 
-- Design and evaluate alternative tokenization strategies for LLM inference.
-- Author an academic paper on tokenizer-driven performance gains.
+- Lead research on tokenizer adaptation and language-specific LLM fine-tuning strategies.
+- Research alternative tokenization strategies and language adaptation methods for LLMs.
+- Evaluate tokenizer-driven quality and efficiency tradeoffs and prepare publication-ready papers.
+
 
 </details>
 
 <details>
-<summary>Middle NLP Engineer · DeepPavlov — Moscow, Russia (May 2025 – present)</summary>
+<summary>Middle NLP Engineer / Lead NLP Researcher · DeepPavlov.ai — Moscow, Russia (May 2025 – present)</summary>
 
-- Running R&D initiatives and evaluation workflows.
-- Running comparative testing on GPU infrastructures from Chinese manufacturers.
+- Lead R&D around LLM evaluation, agentic systems, uncertainty estimation, and reasoning reliability.
+- Build benchmarking workflows and run comparative testing across diverse GPU infrastructures.
 
 </details>
 
@@ -100,7 +110,7 @@ Helping large language models understand the world a bit better. I build and ada
 <summary>NLP Researcher · Higher School of Economics — Moscow, Russia (Jun 2024 – May 2025)</summary>
 
 - Fine-tuned Llama3-8B-Instruct for Russian-language tasks.
-- Developed a Russian BPE tokenizer and tooling to manipulate existing vocabularies safely.
+- Developed a Russian BPE tokenizer and tooling to manipulate existing tokenizer vocabularies safely.
 - Built a grammar benchmark suite to quantify improvements across downstream tasks.
 
 </details>
@@ -125,23 +135,23 @@ Helping large language models understand the world a bit better. I build and ada
 
 <!-- markdownlint-disable MD033 -->
 <details open>
-<summary>Rethinking Tokenization — EACL 2026 (under review)</summary>
+<summary>Mitigating the Impact of Glitch Tokens via Targeted Retokenization — EMNLP 2026 (under review)</summary>
 
-Researcher & writer, 2025. Investigates how alternative tokenizations of the same text impact LLM inference quality.
-
-</details>
-
-<details>
-<summary>TokenSubstitution — ACL 2026 (in progress)</summary>
-
-Proposes cost-effective adaptation approach for improving the performance of LLM generation in target language.
+Researcher & writer, 2025. Studies how glitch-token handling and tokenizer behavior affect LLM generation quality.
 
 </details>
 
 <details>
-<summary>Multi-Aspect Tokenizer Evaluation — Russian AI Journey 2025 (accepted)</summary>
+<summary>TokenSubstitution: Cost-Efficient Method of Language Adaptation Based on Token "Trained-ness" — EMNLP 2026 (in progress)</summary>
 
-Demonstrates tokenizer adaptation as a cost-effective technique by analyzing text quality and token efficiency across diverse benchmarks
+Proposes a cost-efficient method for adapting LLM generation quality to a target language.
+
+</details>
+
+<details>
+<summary>A Multi-Aspect Evaluation of Tokenizer Adaptation Methods for Large Language Models on Russian — AI Journey 2025 (accepted)</summary>
+
+Demonstrates tokenizer adaptation as a cost-effective technique by analyzing text quality and token efficiency across diverse benchmarks.
 
 </details>
 <!-- markdownlint-enable MD033 -->
@@ -152,6 +162,7 @@ Demonstrates tokenizer adaptation as a cost-effective technique by analyzing tex
 <details open>
 <summary>TokenizerChanger — modify tokenizers</summary>
 
+- Python library for modifying Hugging Face tokenizers.
 - [`PyPI`](https://pypi.org/project/TokenizerChanger/) · [`GitHub`](https://github.com/1kkiRen/Tokenizer-Changer)
 - `pip install TokenizerChanger`
 
@@ -160,13 +171,14 @@ Demonstrates tokenizer adaptation as a cost-effective technique by analyzing tex
 <details>
 <summary>EmbeddingsDivision — adapt LLM embeddings</summary>
 
+- Python library for separating and adapting LLM embedding layers.
 - [`PyPI`](https://pypi.org/project/embdiv) · [`GitHub`](https://github.com/1kkiRen/Embeddings-Division)
 - `pip install embdiv`
 
 </details>
 
 <details>
-<summary>CRUD Calendar LLM Chatbot — Telegram assistant</summary>
+<summary>CRUD Calendar LLM Chatbot — Telegram/FastAPI assistant</summary>
 
 - Features: calendar CRUD, summarise latest news, voice reminders.
 - Stack: Telegram Bot API, FastAPI, RAG pipeline with Qwen2.5-VL.
